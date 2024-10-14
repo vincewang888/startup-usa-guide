@@ -15,7 +15,7 @@
 
 按照要求提交给代理即可，其中公司章程就是我们申请公司获得的Formation Document（成立文件）。
 
-<img src="../public/ein/ein001.jpg" width="2706px" height="826px" alt="成立文档”">
+<img src="../public/ein/ein001.jpg" width="1353px"  alt="成立文档”">
 
 你提交给代理人之后，代理人会告诉你大概需要4-6个工作日就可以完成申请，我大概用了7个自然日拿到了EIN。
 

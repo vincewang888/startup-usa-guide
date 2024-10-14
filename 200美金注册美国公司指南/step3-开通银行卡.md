@@ -8,11 +8,11 @@
 
 1.Mercury Bank（水星银行）：水星银行是公认的出海相对方便申请的银行，它并不是严格意义上的实体银行，算是一种数字银行服务，但是具有实体银行账户的功能，在今年之前都算是比较好申请的银行，基本上按照要求填写相关的资料都可以通过，但是今年整体上国内申请水星银行的通过率极大的下降，整体的银行风控更加严格，可能需要有一些背书，比如投融资情况等等，对于刚刚出海，而且是刚申请下来的公司主体，在没有太多信用积累的情况下基本上不太会通过，我前后申请了两次，也发邮件咨询过申请失败的原因，但是出于风控因素，并没有得到具体的回复，但我还是建议新注册的公司在同步好EIN之后，使用稳定且独立的IP地址试试。
 
-<img src="../public/bank/bank001.jpg" width="2328px" height="1144px" alt="水星邮件反馈”">
+<img src="../public/bank/bank001.jpg" width="1164px"  alt="水星邮件反馈”">
 
 2.Brex：同样也是对starup比较友好的电子银行，我卡在了验证身份这一步，对于国内身份的用户无法提供相关的认证服务（获取不到相应的信息）。
 
-<img src="../public/bank/bank002.jpg" width="2478px" height="1514px" alt="Brex认证”">
+<img src="../public/bank/bank002.jpg" width="1239px"  alt="Brex认证”">
 
 3.SVB（硅谷银行）：提交了相应的请求，预计2个工作日内反馈，但迟迟得不到任何回应。
 
@@ -39,7 +39,7 @@
 
 12.Relay：在使用注册公司地址的时候，需要在美国有实际的个人地址，当前公司注册地址不被允许认证。
 
-<img src="../public/bank/bank003.jpg" width="1392px" height="789px" alt="relay认证”">
+<img src="../public/bank/bank003.jpg" width="696px"  alt="relay认证”">
 
 
 13.万里汇：蚂蚁集团的子公司，办理美金个人银行账户，需要有店铺信息或者具体的网址，对跨境电商比较友好，不过我提交的信息被拒，如果你们有具体的经营网址可以再试试。
@@ -58,27 +58,27 @@
 
 按照要求填写后点击下一步：
 
-<img src="../public/bank/bank004.png" width="1302px" height="1464px" alt="派安盈注册开始”">
+<img src="../public/bank/bank004.png" width="651px"  alt="派安盈注册开始”">
 
-<img src="../public/bank/bank005.png" width="1186px" height="1516px" alt="派安盈注册联系信息”">
+<img src="../public/bank/bank005.png" width="593px"  alt="派安盈注册联系信息”">
 
 国家或地区我们选择中国，更多地址信息的话我们用英文填写我们实际的居住地址即可，这里需要注意的是⚠️，如果你的身份证地址并不是你的居住地址的话，后面可能需要填写关于居住地址的水电缴费信息（包含你的名字）或者你的银行卡最近三个月的交易信息（包含你的名字和详细的地址信息），当然你也可以把你的居住地址改到和身份证地址保持一致，然后选择国内的手机号进行验证，验证完成后点击下一步。
 
-<img src="../public/bank/bank006.png" width="1244px" height="1518px" alt="派安盈注册安全信息”">
+<img src="../public/bank/bank006.png" width="622px" alt="派安盈注册安全信息”">
 
 用户名这里默认就是我们的邮箱，安全问题的答案需要用英文，填写好自己的身份证号以及中文的姓名即可点击下一步。
 
-<img src="../public/bank/bank007.png" width="1290px" height="1486px" alt="派安盈银行账户绑定”">
+<img src="../public/bank/bank007.png" width="645px"  alt="派安盈银行账户绑定”">
 
 我们选择法人个人银行账户，地区和货币的话我们保持默认，绑定好身份证号以及银行卡，店铺地址我们输入我们的网站网址，然后点击提交。
 
 大约几个小时后会邮件提醒我们验证信息，我们进入账户验证信息，分别需要提交的是带有今天日期（手持A4纸）的自拍照，和身份证正反面信息。
 
-<img src="../public/bank/bank008.png" width="2906px" height="948px" alt="派安盈信息验证”">
+<img src="../public/bank/bank008.png" width="1453px"  alt="派安盈信息验证”">
 
 提交后也许还需要我们验证下我们的地址信息，按照之前的要求验证就行，我使用的招商银行的信用卡可以添加上姓名和地址信息以确保完全匹配。
 
-<img src="../public/bank/bank009.jpg" width="1570px" height="1446px" alt="派安盈地址验证”">
+<img src="../public/bank/bank009.jpg" width="785px"  alt="派安盈地址验证”">
 
 账户开通之后我们，我们还需要填写一个调查问卷，即可申请开通美金账户，快的话，四个小时内会开通完成，获取到我们的美金账户之后，我们就可以进行[step4 激活Stripe](./step4-激活Stripe.md)。
 
