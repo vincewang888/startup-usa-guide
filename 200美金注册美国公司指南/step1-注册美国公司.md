@@ -42,9 +42,9 @@ Physical Address（物理地址）：我们填写自己真实的居住地址信�
 
 Account Setup （账户设置）：填写自己常用的邮箱地址，密码按照要求设置即可；
 
-Wyoming Business Presence（怀俄明企业业务）：这个默认勾选，属于是赠送，有需要的可以使用，虽然可能也没什么用，域名我们一般自己注册，后面我会出教程介绍如何免费开通企业邮箱。
-
 <img src="../public/cr/cr006.jpg" width="787px"  alt="账户设置”">
+
+Wyoming Business Presence（怀俄明企业业务）：这个默认勾选，属于是赠送，有需要的可以使用，虽然可能也没什么用，域名我们一般自己注册，后面我会出教程介绍如何免费开通企业邮箱。
 
 Recommended Items （推荐项目）：Annual Report Compliance（年度报告合规）我们默认勾选上即可，按照美国的法律，我们需要在公司成立的周年日提交，不然会有被解散的风险。其他的比如 Corporate Supplies（公司用品）、Trademark Service – $499（商标服务 – 499美元）、Trade Name (DBA) – $225（商业名称（DBA）– 225美元）等需要收费的项目，我们都不需要勾选了，如果真的有需要找代办也许费用更低一些，我们主打一个性价比～
 
